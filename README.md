@@ -1,6 +1,6 @@
 This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-- Solution URL: https://github.com/E00440/frontendmentor-interactive-rating-component
+- Solution URL: https://github.com/Emmanuel-Malik/frontendmentor-interactive-rating-component
 - Live Site URL: https://interactive-rating-cpnt-practice.netlify.app/
 
 
