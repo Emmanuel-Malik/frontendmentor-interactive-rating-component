@@ -16,4 +16,4 @@ I got to practice the dom basics i just finished from supersimpledev's javascrip
 
 
 ## Author
-- Frontend Mentor - [@E00440](https://www.frontendmentor.io/profile/E00440)
+- Frontend Mentor - [@E00440](https://www.frontendmentor.io/profile/Emmanuel-Malik)
